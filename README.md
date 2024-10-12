@@ -2,7 +2,7 @@
 
 Este proyecto consiste en un sistema básico de gestión de inventario y ventas, implementado en Python dentro de un Jupyter Notebook. 
 
-<u> Estructura del Proyecto </u>
+## Estructura del Proyecto ##
 
 El proyecto está compuesto por las siguientes funcionalidades principales:
 
