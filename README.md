@@ -18,7 +18,7 @@ Antes de comenzar, asegúrate de tener los programas necesarios en tu dispositiv
 
 Si quieres disponer de este repositorio, una de las opciones es clonarlo.
 De ser el caso, estos son los pasos que debes seguir:
-- Abrir una terminal en tu entorno local y escribes lo siguiente. -> git clone [https://github.com/Adalab/bda-modulo-1-evaluacion-final-Juliams93(https://github.com/Adalab/bda-modulo-1-evaluacion-final-Juliams93)]
+- Abrir una terminal en tu entorno local y escribes lo siguiente. -> git clone https://github.com/Adalab/bda-modulo-1-evaluacion-final-Juliams93
 - Y acceder a él -> cd bda-modulo-1-evaluacion-final-Juliams93
 
 ## Estructura del Proyecto ##
